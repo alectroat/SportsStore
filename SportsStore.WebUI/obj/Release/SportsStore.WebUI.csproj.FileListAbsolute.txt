@@ -1,0 +1,1 @@
+F:\.NET projects\SportsStore\SportsStore.WebUI\obj\Release\SportsStore.WebUI.csprojResolveAssemblyReference.cache
